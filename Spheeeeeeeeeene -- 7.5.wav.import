@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bq87r37f7rma1"
+path="res://.godot/imported/Spheeeeeeeeeene -- 7.5.wav-b0f5bd4bd00af767cc0dd32f373db0ca.sample"
+
+[deps]
+
+source_file="res://Spheeeeeeeeeene -- 7.5.wav"
+dest_files=["res://.godot/imported/Spheeeeeeeeeene -- 7.5.wav-b0f5bd4bd00af767cc0dd32f373db0ca.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
